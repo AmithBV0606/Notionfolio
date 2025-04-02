@@ -39,6 +39,10 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## Progress 
 
-### Progress after 2nd commit :
+**Progress after 2nd commit :**
 
 <img src="./assets/Progress-1.png" />
+
+**Progress after 3rd commit :**
+
+<img src="./assets/Progress-2.png" />
